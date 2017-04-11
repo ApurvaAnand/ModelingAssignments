@@ -68,29 +68,3 @@ for q in xrange(0,len(seq)):
 	print "The residues binding as per the traceback"
 	for x in xrange(0,len(pair)):
 		print "("'%s%d == %s%d'")" % (pair[x][2],pair[x][0],pair[x][3],pair[x][1]);
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
